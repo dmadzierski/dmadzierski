@@ -15,4 +15,4 @@ receipt digitization and expense tracking with OCR, Hexagonal Architecture,
 CQRS and Keycloak, deployed to my own homelab.
 
 ## Currently
-Looking for a new Java backend role. 📫 [LinkedIn]([https://www.linkedin.com/in/...](https://www.linkedin.com/in/daniel-madzierski-8223501b8))
+Looking for a new Java backend role. 📫 [LinkedIn](https://www.linkedin.com/in/daniel-madzierski-8223501b8)
