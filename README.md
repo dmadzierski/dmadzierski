@@ -5,7 +5,9 @@ I build business applications with **Java, Kotlin and Spring Boot**.
 
 ## What I work with
 - **Backend:** Java, Kotlin, Spring Boot, JPA/Hibernate, MyBatis, SQL
-- **Auth & messaging:** Keycloak, RabbitMQ, Redis
+- **Data:** MySQL, MSSQL, PostgreSQL, Redis
+- **Auth:** Keycloak
+- **Messaging:** RabbitMQ
 - **DevOps:** Docker, Jenkins, Kubernetes/OKD
 - **Frontend:** Angular
 
