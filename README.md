@@ -7,9 +7,12 @@ I build business applications with **Java, Kotlin and Spring Boot**.
 - **Backend:** Java, Kotlin, Spring Boot, JPA/Hibernate, MyBatis, SQL
 - **Auth & messaging:** Keycloak, RabbitMQ, Redis
 - **DevOps:** Docker, Jenkins, Kubernetes/OKD
-- **Frontend:** Angular CLI
+- **Frontend:** Angular
 
 ## Featured project
 **[Receipt Analyzer](https://github.com/dmadzierski/receipt-analyzer)** –
 receipt digitization and expense tracking with OCR, Hexagonal Architecture,
 CQRS and Keycloak, deployed to my own homelab.
+
+## Currently
+Looking for a new Java backend role. 📫 [LinkedIn]([https://www.linkedin.com/in/...](https://www.linkedin.com/in/daniel-madzierski-8223501b8))
