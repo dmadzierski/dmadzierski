@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**dmadzierski/dmadzierski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java backend developer from Poznań with 3 years of commercial experience.
+I build business applications with **Java, Kotlin and Spring Boot**.
 
-Here are some ideas to get you started:
+## What I work with
+- **Backend:** Java, Kotlin, Spring Boot, JPA/Hibernate, MyBatis, SQL
+- **Auth & messaging:** Keycloak, RabbitMQ, Redis
+- **DevOps:** Docker, Jenkins, Kubernetes/OKD
+- **Frontend:** Angular CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+**[Receipt Analyzer](https://github.com/dmadzierski/receipt-analyzer)** –
+receipt digitization and expense tracking with OCR, Hexagonal Architecture,
+CQRS and Keycloak, deployed to my own homelab.
